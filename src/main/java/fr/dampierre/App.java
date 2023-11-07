@@ -18,6 +18,7 @@ public class App {
         }
 
         System.out.print("Votre total est de : " + som);
+        clavier.close();
     }
     
 }
